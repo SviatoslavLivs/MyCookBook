@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MyCookBook">
+    <item
+        android:id="@+id/action_serch"
+        android:title="@string/Next"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/back" android:title="Back"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

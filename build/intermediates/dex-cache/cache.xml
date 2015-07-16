@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/livs/Pictures/MyCookBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/livs/Pictures/MyCookBook/app/build/intermediates/pre-dexed/debug/classes-1febf6ecbd6a3b5e1a474d3c3f0248b7a4dc8148.jar" />
+    </item>
+    <item
+        jar="/home/livs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/livs/Pictures/MyCookBook/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f06c81d3c901276afd6bdb1e8ae910c7bb6d586a.jar" />
+    </item>
+    <item
+        jar="/home/livs/Pictures/MyCookBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/livs/Pictures/MyCookBook/app/build/intermediates/pre-dexed/debug/classes-bb37aa439541b07f3ca75ab7b4de15530e800601.jar" />
+    </item>
+    <item
+        jar="/home/livs/Pictures/MyCookBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/livs/Pictures/MyCookBook/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9f5226a8127d53c3c48bb53582d971f45be54006.jar" />
+    </item>
+
+</items>

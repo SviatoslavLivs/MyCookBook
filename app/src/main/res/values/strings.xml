@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCookBook</string>
+    <string name="settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="Top_Rated">TOP Rated</string>
+    <string name="Trending">Trending</string>
+    <string name="Food">Food</string>
+    <string name="Next">Next page</string>
+    <string name="Back">Back</string>
+    <string name="column">column</string>
+
+</resources>
